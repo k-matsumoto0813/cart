@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:20:09 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646817609730
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817602089
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.bouncycastle\:bcpkix-jdk15on\:jar\:1.55 from/to spring-releases (https\://repo.spring.io/libs-release)\: Authentication failed for https\://repo.spring.io/libs-release/org/bouncycastle/bcpkix-jdk15on/1.55/bcpkix-jdk15on-1.55.jar 401 Unauthorized

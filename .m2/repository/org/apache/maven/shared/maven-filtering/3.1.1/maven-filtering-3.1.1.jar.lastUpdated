@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:24:10 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646817850762
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817848624
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.maven.shared\:maven-filtering\:jar\:3.1.1 from/to spring-releases (https\://repo.spring.io/libs-release)\: Authentication failed for https\://repo.spring.io/libs-release/org/apache/maven/shared/maven-filtering/3.1.1/maven-filtering-3.1.1.jar 401 Unauthorized

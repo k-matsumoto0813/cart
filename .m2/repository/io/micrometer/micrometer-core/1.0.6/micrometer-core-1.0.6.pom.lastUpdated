@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:15:12 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646817312752
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817312460
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact io.micrometer\:micrometer-core\:pom\:1.0.6 from/to spring-releases (https\://repo.spring.io/libs-release)\: Transfer failed for https\://repo.spring.io/libs-release/io/micrometer/micrometer-core/1.0.6/micrometer-core-1.0.6.pom ProxyInfo{host\='proxygate2.nic.nec.co.jp', userName\='null', port\=8080, type\='http', nonProxyHosts\='null'}

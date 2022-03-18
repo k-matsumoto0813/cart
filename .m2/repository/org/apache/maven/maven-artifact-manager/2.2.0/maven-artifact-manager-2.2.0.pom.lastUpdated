@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:27:16 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646818036136
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646818035842
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.maven\:maven-artifact-manager\:pom\:2.2.0 from/to spring-releases (https\://repo.spring.io/libs-release)\: Authentication failed for https\://repo.spring.io/libs-release/org/apache/maven/maven-artifact-manager/2.2.0/maven-artifact-manager-2.2.0.pom 401 Unauthorized

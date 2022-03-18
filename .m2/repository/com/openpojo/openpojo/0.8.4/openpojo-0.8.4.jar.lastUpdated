@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:20:10 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646817610344
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817602701
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.openpojo\:openpojo\:jar\:0.8.4 from/to spring-releases (https\://repo.spring.io/libs-release)\: Authentication failed for https\://repo.spring.io/libs-release/com/openpojo/openpojo/0.8.4/openpojo-0.8.4.jar 401 Unauthorized

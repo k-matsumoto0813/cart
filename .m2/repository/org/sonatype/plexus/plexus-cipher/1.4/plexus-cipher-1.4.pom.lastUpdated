@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:23:32 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646817812256
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817811968
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.sonatype.plexus\:plexus-cipher\:pom\:1.4 from/to spring-releases (https\://repo.spring.io/libs-release)\: Authentication failed for https\://repo.spring.io/libs-release/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom 401 Unauthorized

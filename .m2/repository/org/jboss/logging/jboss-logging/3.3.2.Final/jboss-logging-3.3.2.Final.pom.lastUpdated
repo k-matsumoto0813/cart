@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:14:51 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646817291715
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817291424
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.jboss.logging\:jboss-logging\:pom\:3.3.2.Final from/to spring-releases (https\://repo.spring.io/libs-release)\: Transfer failed for https\://repo.spring.io/libs-release/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.pom ProxyInfo{host\='proxygate2.nic.nec.co.jp', userName\='null', port\=8080, type\='http', nonProxyHosts\='null'}
