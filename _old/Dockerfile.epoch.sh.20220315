@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# build
+docker build \
+    -t shiota2021/sockshop-cart:202203 \
+    -f Dockerfile.epoch \
+    --build-arg http_proxy=http://proxygate2.nic.nec.co.jp:8080 \
+    --build-arg https_proxy=http://proxygate2.nic.nec.co.jp:8080 \
+    --build-arg http_proxy_host=proxygate2.nic.nec.co.jp \
+    --build-arg http_proxy_port=8080 \
+    --build-arg https_proxy_host=proxygate2.nic.nec.co.jp \
+    --build-arg https_proxy_port=8080 \
+    .
