@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Mar 09 09:25:07 UTC 2022
-https\://repo.maven.apache.org/maven2/.lastUpdated=1646817907725
-@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817905676
-https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.codehaus.plexus\:plexus-utils\:jar\:1.5.15 from/to spring-releases (https\://repo.spring.io/libs-release)\: Authentication failed for https\://repo.spring.io/libs-release/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.jar 401 Unauthorized

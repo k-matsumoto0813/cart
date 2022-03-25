@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Mar 09 09:15:07 UTC 2022
-https\://repo.maven.apache.org/maven2/.lastUpdated=1646817307320
-@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817307044
-https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:4.2.8.RELEASE from/to spring-releases (https\://repo.spring.io/libs-release)\: Transfer failed for https\://repo.spring.io/libs-release/org/springframework/spring-framework-bom/4.2.8.RELEASE/spring-framework-bom-4.2.8.RELEASE.pom ProxyInfo{host\='proxygate2.nic.nec.co.jp', userName\='null', port\=8080, type\='http', nonProxyHosts\='null'}

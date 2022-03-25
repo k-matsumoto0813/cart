@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Mar 09 09:22:53 UTC 2022
-https\://repo.maven.apache.org/maven2/.lastUpdated=1646817773553
-@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817770099
-https\://repo.spring.io/libs-release/.error=Could not transfer artifact commons-collections\:commons-collections\:jar\:3.2 from/to spring-releases (https\://repo.spring.io/libs-release)\: Authentication failed for https\://repo.spring.io/libs-release/commons-collections/commons-collections/3.2/commons-collections-3.2.jar 401 Unauthorized
