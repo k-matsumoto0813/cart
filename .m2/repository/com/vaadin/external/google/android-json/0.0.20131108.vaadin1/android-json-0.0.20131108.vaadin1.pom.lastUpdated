@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:15:30 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646817330232
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817329941
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.vaadin.external.google\:android-json\:pom\:0.0.20131108.vaadin1 from/to spring-releases (https\://repo.spring.io/libs-release)\: Transfer failed for https\://repo.spring.io/libs-release/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.pom ProxyInfo{host\='proxygate2.nic.nec.co.jp', userName\='null', port\=8080, type\='http', nonProxyHosts\='null'}

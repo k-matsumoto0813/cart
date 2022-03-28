@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:20:09 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646817609767
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817602165
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.hdrhistogram\:HdrHistogram\:jar\:2.1.10 from/to spring-releases (https\://repo.spring.io/libs-release)\: Authentication failed for https\://repo.spring.io/libs-release/org/hdrhistogram/HdrHistogram/2.1.10/HdrHistogram-2.1.10.jar 401 Unauthorized

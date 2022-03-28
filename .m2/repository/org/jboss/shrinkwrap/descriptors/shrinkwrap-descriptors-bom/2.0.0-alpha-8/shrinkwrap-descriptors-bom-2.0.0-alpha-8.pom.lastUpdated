@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:14:50 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646817290938
+https\://oss.sonatype.org/content/repositories/snapshots/.error=Could not transfer artifact org.jboss.shrinkwrap.descriptors\:shrinkwrap-descriptors-bom\:pom\:2.0.0-alpha-8 from/to sonatype-oss-snapshots (https\://oss.sonatype.org/content/repositories/snapshots/)\: Transfer failed for https\://oss.sonatype.org/content/repositories/snapshots/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-8/shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom ProxyInfo{host\='proxygate2.nic.nec.co.jp', userName\='null', port\=8080, type\='http', nonProxyHosts\='null'}
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817290522
+@proxygate2.nic.nec.co.jp\:8080>@default-sonatype-oss-snapshots-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1646817290596
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.jboss.shrinkwrap.descriptors\:shrinkwrap-descriptors-bom\:pom\:2.0.0-alpha-8 from/to spring-releases (https\://repo.spring.io/libs-release)\: Transfer failed for https\://repo.spring.io/libs-release/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-8/shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom ProxyInfo{host\='proxygate2.nic.nec.co.jp', userName\='null', port\=8080, type\='http', nonProxyHosts\='null'}

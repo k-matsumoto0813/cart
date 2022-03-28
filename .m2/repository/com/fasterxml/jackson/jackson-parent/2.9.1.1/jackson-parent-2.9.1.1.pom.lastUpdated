@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 09 09:14:16 UTC 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646817256458
+@proxygate2.nic.nec.co.jp\:8080>@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1646817256166
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-parent\:pom\:2.9.1.1 from/to spring-releases (https\://repo.spring.io/libs-release)\: Transfer failed for https\://repo.spring.io/libs-release/com/fasterxml/jackson/jackson-parent/2.9.1.1/jackson-parent-2.9.1.1.pom ProxyInfo{host\='proxygate2.nic.nec.co.jp', userName\='null', port\=8080, type\='http', nonProxyHosts\='null'}
